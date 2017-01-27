@@ -1,163 +1,164 @@
-agencyname,agencyabbrev,agencycode
-Amtrak,Amtrak,
-Brooklyn Bridge Park Corporation,BBPC,
-Brooklyn Public Library,BPL,
-City University of New York,CUNY,
-Federal Bureau of Prisons,FBOP,
-Hudson River Park Trust,HRPT,
-Hudson Yards Development Corporation,HYDC,
-Metropolitan Transportation Authority,MTA,
-New York City Administration for Childrens Services,NYCACS,
-New York City Board of Elections,NYCBOE,
-New York City Board of Standards and Appeals,NYCBSA,
-New York City Borough President - Bronx,NYCBP-BX,
-New York City Borough President - Brooklyn,NYCBP-BK,
-New York City Borough President - Manhattan,NYCBP-MN,
-New York City Borough President - Queens,NYCBP-QN,
-New York City Borough President - Staten Island,NYCBP-SI,
-New York City Business Integrity Commission,NYCBIC,
-New York City Campaign Finance Board,NYCCFB,
-New York City Center for Economic Opportunity,NYCCEO,
-New York City Civil Service Commission,NYCCSC,
-New York City Civilian Complaint Review Board,NYCCCRB,
-New York City Commission on Human Rights,NYCCCHR,
-New York City Community Board 102,NYCCB102,
-New York City Community Board 103,NYCCB103,
-New York City Community Board 104,NYCCB104,
-New York City Community Board 105,NYCCB105,
-New York City Community Board 106,NYCCB106,
-New York City Community Board 107,NYCCB107,
-New York City Community Board 108,NYCCB108,
-New York City Community Board 109,NYCCB109,
-New York City Community Board 110,NYCCB110,
-New York City Community Board 111,NYCCB111,
-New York City Community Board 112,NYCCB112,
-New York City Community Board 201,NYCCB201,
-New York City Community Board 202,NYCCB202,
-New York City Community Board 203,NYCCB203,
-New York City Community Board 204,NYCCB204,
-New York City Community Board 205,NYCCB205,
-New York City Community Board 206,NYCCB206,
-New York City Community Board 207,NYCCB207,
-New York City Community Board 208,NYCCB208,
-New York City Community Board 209,NYCCB209,
-New York City Community Board 210,NYCCB210,
-New York City Community Board 211,NYCCB211,
-New York City Community Board 212,NYCCB212,
-New York City Community Board 301,NYCCB301,
-New York City Community Board 303,NYCCB303,
-New York City Community Board 304,NYCCB304,
-New York City Community Board 305,NYCCB305,
-New York City Community Board 306,NYCCB306,
-New York City Community Board 307,NYCCB307,
-New York City Community Board 308,NYCCB308,
-New York City Community Board 309,NYCCB309,
-New York City Community Board 310,NYCCB310,
-New York City Community Board 311,NYCCB311,
-New York City Community Board 312,NYCCB312,
-New York City Community Board 313,NYCCB313,
-New York City Community Board 314,NYCCB314,
-New York City Community Board 315,NYCCB315,
-New York City Community Board 316,NYCCB316,
-New York City Community Board 317,NYCCB317,
-New York City Community Board 318,NYCCB318,
-New York City Community Board 401,NYCCB401,
-New York City Community Board 402,NYCCB402,
-New York City Community Board 403,NYCCB403,
-New York City Community Board 404,NYCCB404,
-New York City Community Board 405,NYCCB405,
-New York City Community Board 406,NYCCB406,
-New York City Community Board 408,NYCCB408,
-New York City Community Board 409,NYCCB409,
-New York City Community Board 410,NYCCB410,
-New York City Community Board 411,NYCCB411,
-New York City Community Board 412,NYCCB412,
-New York City Community Board 413,NYCCB413,
-New York City Community Board 414,NYCCB414,
-New York City Community Board 501,NYCCB501,
-New York City Community Board 502,NYCCB502,
-New York City Community Board 503,NYCCB503,
-New York City Conflict of Interest Board,NYCCOIB,
-New York City Council,NYCCOUNCIL,
-New York City Department for the Aging,NYCDFTA,
-New York City Department of Buildings,NYCDOB,
-New York City Department of City Planning,NYCDCP,
-New York City Department of Citywide Administrative Services,NYCDCAS,
-New York City Department of Consumer Affairs,NYCDCA,
-New York City Department of Correction,NYCDOC,
-New York City Department of Cultural Affairs,NYCDCLA,
-New York City Department of Design and Construction,NYCDDC,
-New York City Department of Education,NYCDOE,
-"New York City Department of Education', 'New York State Education Department","NYCDOE', 'NYSED",
-New York City Department of Environmental Protection,NYCDEP,
-New York City Department of Finance,NYCDOF,
-New York City Department of Health and Mental Hygiene,NYCDOHMH,
-New York City Department of Homeless Services,NYCDHS,
-New York City Department of Housing Preservation and Development,NYCHPD,
-New York City Department of Information Technology and Telecommunications,NYCDOITT,
-New York City Department of Investigation,NYCDOI,
-New York City Department of Parks and Recreation,NYCDPR,
-New York City Department of Probation,NYCDOP,
-New York City Department of Records and Information Services,NYCDORIS,
-New York City Department of Sanitation,NYCDSNY,
-New York City Department of Small Business Services,NYCSBS,
-New York City Department of Transportation,NYCDOT,
-New York City Department of Youth and Community Development,NYCDYCD,
-New York City District Attorney - Bronx ,NYCDA-BX,
-New York City District Attorney - Brooklyn,NYCDA-BK,
-New York City District Attorney - Manhattan,NYCDA-MN,
-New York City District Attorney - Office Special Narcotics,NYCDA-SNP,
-New York City District Attorney - Queens,NYCDA-QN,
-New York City District Attorney - Staten Island,NYCDA-SI,
-New York City Economic Development Corporation,NYCEDC,
-New York City Fire Department,NYCFDNY,
-New York City Health and Hospitals Corporation,NYCHHC,
-New York City Housing Authority,NYCHA,
-New York City Human Resources Administration/Department of Social Services,NYCHRA/DSS,
-New York City Independent Budget Office,NYCIBO,
-New York City Landmarks Preservation Commission,NYCLPC,
-New York City Law Department,NYCLAW,
-New York City New York City Department of Small Business Services,NYCSBS,
-New York City Office of Administrative Trials and Hearings,NYCOATH,
-New York City Office of Collective Bargaining,NYCOCB,
-New York City Office of Court Administration,NYCOCA,
-New York City Office of Emergency Management,NYCEM,
-New York City Office of Labor Relations,NYCOLR,
-New York City Office of Management and Budget,NYCOMB,
-New York City Office of Payroll Administration,NYCOPA,
-New York City Office of Public Advocate,NYCPA,
-New York City Office of the Actuary,NYCACT,
-New York City Office of the City Clerk,NYCCLERK,
-New York City Office of the Comptroller,NYCCOMP,
-New York City Office of the Mayor,NYCMO,
-New York City Office of the Medical Examiner,NYCOCME,
-New York City Police Department,NYPD,
-New York City Public Administrators Office - Bronx,NYCPA-BX,
-New York City Public Administrators Office - Brooklyn,NYCPA-BK,
-New York City Public Administrators Office - Manhattan,NYCPA-MN,
-New York City Public Administrators Office - Queens,NYCPA-QN,
-New York City Public Administrators Office - Staten Island,NYCPA-SI,
-New York City Tax Commission,NYCTAXCM,
-New York City Taxi and Limousine Commission,NYCTLC,
-New York City Unknown,NYCUNKN,
-New York Police Department,NYPD,
-New York Public Library,NYPL,
-New York State Department of Corrections and Community Supervision,NYSDOCCS,
-New York State Department of Environmental Conservation,NYSDEC,
-New York State Department of Health,NYSDOH,
-New York State Department of Transportation,NYSDOT,
-New York State Education Department,NYSED,
-New York State Office for People With Developmental Disabilities,NYSOPWDD,
-New York State Office of Alcoholism and Substance Abuse Services,NYSOASAS,
-New York State Office of Children and Family Services,NYSOCFS,
-New York State Office of Mental Health,NYSOMH,
-"New York State Office of Parks, Recreation and Historic Preservation",NYSOPRHP,
-New York State Unified Court System,NYCOURTS,
-Port Authority of New York and New Jersey,PANYNJ,
-Queens Public Library,QPL,
-Roosevelt Island Operating Corporation,RIOC,
-Trust for Governors Island,TGI,
-United States Coast Guard,USCG,
-United States Courts,USCOURTS,
-United States Department of Transportation,USDOT,
-United States National Park Service,USNPS,
+agencyname,agencyabbrev,agencycode,agencyacronym,agency
+,,111,UK,Unknown
+New York City Department for the Aging,NYCDFTA,125,DFTA,Department for the Aging
+New York City Department of Cultural Affairs,NYCDCLA,126,DCLA,Department of Cultural Affairs
+New York City Department of Small Business Services,NYCSBS,801,SBS,Department of Small Business Services
+New York City Department of Health and Mental Hygiene,NYCDOHMH,816,DOHMH,Department of Health and Mental Hygiene
+New York City Health and Hospitals Corporation,NYCHHC,819,HHC,Health and Hospitals Corporation
+New York City Department of Environmental Protection,NYCDEP,826,DEP,Department of Environmental Protection
+New York City Department of Sanitation,NYCDSNY,827,DSNY,Department of Sanitation
+New York City Department of Transportation,NYCDOT,841,DOT,Department of Transportation
+New York City Department of Parks and Recreation,NYCDPR,846,DPR,Department of Parks and Recreation
+New York City Department of Design and Construction,NYCDDC,850,DDC,Department of Design and Construction
+New York City Department of Citywide Administrative Services,NYCDCAS,856,DCAS,Department of Citywide Administrative Services
+New York City Department of Information Technology and Telecommunications,NYCDOITT,858,DOITT,Department of Information Technology and Telecommunications
+New York City Economic Development Corporation,NYCEDC,998,EDC,Economic Development Corporation
+,,035,NYRL,New York Research Libraries
+New York Public Library,NYPL,037,NYPL,New York Public Library
+Brooklyn Public Library,BPL,038,BPL,Brooklyn Public Library
+Queens Public Library,QPL,039,QBPL,Queens Public Library
+New York City Department of Education,NYCDOE,040,DOE,Department of Education
+City University of New York,CUNY,042,CUNY,City University of New York
+New York City Police Department,NYPD,056,NYPD,Police Department
+New York City Fire Department,NYCFDNY,057,FDNY,Fire Department
+New York City Administration for Childrens Services,NYCACS,068,ACS,Administration for Childrens Services
+New York City Department of Homeless Services,NYCDHS,071,DHS,Department of Homeless Services
+New York City Department of Correction,NYCDOC,072,DOC,Department of Correction
+,,096,UK,Unknown
+New York City Department of Housing Preservation and Development,NYCHPD,806,HPD,Department of Housing Preservation and Development
+New York City Board of Elections,NYCBOE,003,BOE,Board of Elections
+Amtrak,Amtrak,,Amtrak,Amtrak
+New York City Board of Standards and Appeals,NYCBSA,059,BSA,Board of Standards and Appeals
+New York City Borough President - Bronx,NYCBP-BX,011,BP-BX,Borough President - Bronx
+New York City Borough President - Brooklyn,NYCBP-BK,012,BP-BK,Borough President - Brooklyn
+New York City Borough President - Manhattan,NYCBP-MN,010,BP-MN,Borough President - Manhattan
+New York City Borough President - Queens,NYCBP-QN,013,BP-QN,Borough President - Queens
+New York City Borough President - Staten Island,NYCBP-SI,014,BP-SI,Borough President - Staten Island
+Brooklyn Bridge Park Corporation,BBPC,,BBPC,Brooklyn Bridge Park Corporation
+New York City Business Integrity Commission,NYCBIC,831,BIC,Business Integrity Commission
+New York City Campaign Finance Board,NYCCFB,004,CFB,Campaign Finance Board
+New York City Center for Economic Opportunity,NYCCEO,,CEO,Center for Economic Opportunity
+New York City Civil Service Commission,NYCCSC,134,CSC,Civil Service Commission
+New York City Civilian Complaint Review Board,NYCCCRB,054,CCRB,Civilian Complaint Review Board
+New York City Commission on Human Rights,NYCCCHR,226,CCHR,Commission on Human Rights
+New York City Community Board 102,NYCCB102,441,CB102,Community Board 102
+New York City Community Board 103,NYCCB103,441,CB103,Community Board 103
+New York City Community Board 104,NYCCB104,441,CB104,Community Board 104
+New York City Community Board 105,NYCCB105,441,CB105,Community Board 105
+New York City Community Board 106,NYCCB106,441,CB106,Community Board 106
+New York City Community Board 107,NYCCB107,441,CB107,Community Board 107
+New York City Community Board 108,NYCCB108,441,CB108,Community Board 108
+New York City Community Board 109,NYCCB109,441,CB109,Community Board 109
+New York City Community Board 110,NYCCB110,441,CB110,Community Board 110
+New York City Community Board 111,NYCCB111,441,CB111,Community Board 111
+New York City Community Board 112,NYCCB112,441,CB112,Community Board 112
+New York City Community Board 201,NYCCB201,441,CB201,Community Board 201
+New York City Community Board 202,NYCCB202,441,CB202,Community Board 202
+New York City Community Board 203,NYCCB203,441,CB203,Community Board 203
+New York City Community Board 204,NYCCB204,441,CB204,Community Board 204
+New York City Community Board 205,NYCCB205,441,CB205,Community Board 205
+New York City Community Board 206,NYCCB206,441,CB206,Community Board 206
+New York City Community Board 207,NYCCB207,441,CB207,Community Board 207
+New York City Community Board 208,NYCCB208,441,CB208,Community Board 208
+New York City Community Board 209,NYCCB209,441,CB209,Community Board 209
+New York City Community Board 210,NYCCB210,441,CB210,Community Board 210
+New York City Community Board 211,NYCCB211,441,CB211,Community Board 211
+New York City Community Board 212,NYCCB212,441,CB212,Community Board 212
+New York City Community Board 301,NYCCB301,441,CB301,Community Board 301
+New York City Community Board 303,NYCCB303,441,CB303,Community Board 303
+New York City Community Board 304,NYCCB304,441,CB304,Community Board 304
+New York City Community Board 305,NYCCB305,441,CB305,Community Board 305
+New York City Community Board 306,NYCCB306,441,CB306,Community Board 306
+New York City Community Board 307,NYCCB307,441,CB307,Community Board 307
+New York City Community Board 308,NYCCB308,441,CB308,Community Board 308
+New York City Community Board 309,NYCCB309,441,CB309,Community Board 309
+New York City Community Board 310,NYCCB310,441,CB310,Community Board 310
+New York City Community Board 311,NYCCB311,441,CB311,Community Board 311
+New York City Community Board 312,NYCCB312,441,CB312,Community Board 312
+New York City Community Board 313,NYCCB313,441,CB313,Community Board 313
+New York City Community Board 314,NYCCB314,441,CB314,Community Board 314
+New York City Community Board 315,NYCCB315,441,CB315,Community Board 315
+New York City Community Board 316,NYCCB316,441,CB316,Community Board 316
+New York City Community Board 317,NYCCB317,441,CB317,Community Board 317
+New York City Community Board 318,NYCCB318,441,CB318,Community Board 318
+New York City Community Board 401,NYCCB401,441,CB401,Community Board 401
+New York City Community Board 402,NYCCB402,441,CB402,Community Board 402
+New York City Community Board 403,NYCCB403,441,CB403,Community Board 403
+New York City Community Board 404,NYCCB404,441,CB404,Community Board 404
+New York City Community Board 405,NYCCB405,441,CB405,Community Board 405
+New York City Community Board 406,NYCCB406,441,CB406,Community Board 406
+New York City Community Board 408,NYCCB408,441,CB408,Community Board 408
+New York City Community Board 409,NYCCB409,441,CB409,Community Board 409
+New York City Community Board 410,NYCCB410,441,CB410,Community Board 410
+New York City Community Board 411,NYCCB411,441,CB411,Community Board 411
+New York City Community Board 412,NYCCB412,441,CB412,Community Board 412
+New York City Community Board 413,NYCCB413,441,CB413,Community Board 413
+New York City Community Board 414,NYCCB414,441,CB414,Community Board 414
+New York City Community Board 501,NYCCB501,441,CB501,Community Board 501
+New York City Community Board 502,NYCCB502,441,CB502,Community Board 502
+New York City Community Board 503,NYCCB503,441,CB503,Community Board 503
+New York City Conflict of Interest Board,NYCCOIB,312,COIB,Conflict of Interest Board
+New York City Council,NYCCOUNCIL,102,COUNCIL,Council
+New York City Department of Buildings,NYCDOB,810,DOB,Department of Buildings
+New York City Department of City Planning,NYCDCP,030,DCP,Department of City Planning
+New York City Department of Consumer Affairs,NYCDCA,866,DCA,Department of Consumer Affairs
+"New York City Department of Education', 'New York State Education Department","NYCDOE', 'NYSED",,"DOE', 'NYSED","Department of Education', 'New York State Education Department"
+New York City Department of Finance,NYCDOF,836,DOF,Department of Finance
+New York City Department of Investigation,NYCDOI,032,DOI,Department of Investigation
+New York City Department of Probation,NYCDOP,781,DOP,Department of Probation
+New York City Department of Records and Information Services,NYCDORIS,860,DORIS,Department of Records and Information Services
+New York City Department of Youth and Community Development,NYCDYCD,260,DYCD,Department of Youth and Community Development
+New York City District Attorney - Bronx ,NYCDA-BX,902,DA-BX,District Attorney - Bronx 
+New York City District Attorney - Brooklyn,NYCDA-BK,903,DA-BK,District Attorney - Brooklyn
+New York City District Attorney - Manhattan,NYCDA-MN,901,DA-MN,District Attorney - Manhattan
+New York City District Attorney - Office Special Narcotics,NYCDA-SNP,906,DA-SNP,District Attorney - Office Special Narcotics
+New York City District Attorney - Queens,NYCDA-QN,904,DA-QN,District Attorney - Queens
+New York City District Attorney - Staten Island,NYCDA-SI,905,DA-SI,District Attorney - Staten Island
+Federal Bureau of Prisons,FBOP,,FBOP,Federal Bureau of Prisons
+New York City Housing Authority,NYCHA,996,NYCHA,Housing Authority
+Hudson River Park Trust,HRPT,,HRPT,Hudson River Park Trust
+Hudson Yards Development Corporation,HYDC,,HYDC,Hudson Yards Development Corporation
+New York City Human Resources Administration/Department of Social Services,NYCHRA/DSS,069,HRA/DSS,Human Resources Administration/Department of Social Services
+New York City Independent Budget Office,NYCIBO,132,IBO,Independent Budget Office
+New York City Landmarks Preservation Commission,NYCLPC,136,LPC,Landmarks Preservation Commission
+New York City Law Department,NYCLAW,025,LAW,Law Department
+Metropolitan Transportation Authority,MTA,,MTA,Metropolitan Transportation Authority
+New York State Department of Corrections and Community Supervision,NYSDOCCS,,NYSDOCCS,New York State Department of Corrections and Community Supervision
+New York State Department of Environmental Conservation,NYSDEC,,NYSDEC,New York State Department of Environmental Conservation
+New York State Department of Health,NYSDOH,,NYSDOH,New York State Department of Health
+New York State Department of Transportation,NYSDOT,,NYSDOT,New York State Department of Transportation
+New York State Education Department,NYSED,,NYSED,New York State Education Department
+New York State Office for People With Developmental Disabilities,NYSOPWDD,,NYSOPWDD,New York State Office for People With Developmental Disabilities
+New York State Office of Alcoholism and Substance Abuse Services,NYSOASAS,,NYSOASAS,New York State Office of Alcoholism and Substance Abuse Services
+New York State Office of Children and Family Services,NYSOCFS,,NYSOCFS,New York State Office of Children and Family Services
+New York State Office of Mental Health,NYSOMH,,NYSOMH,New York State Office of Mental Health
+"New York State Office of Parks, Recreation and Historic Preservation",NYSOPRHP,,NYSOPRHP,"New York State Office of Parks, Recreation and Historic Preservation"
+New York State Unified Court System,NYCOURTS,,OURTS,New York State Unified Court System
+New York City Office of Administrative Trials and Hearings,NYCOATH,,OATH,Office of Administrative Trials and Hearings
+New York City Office of Collective Bargaining,NYCOCB,313,OCB,Office of Collective Bargaining
+New York City Office of Court Administration,NYCOCA,,OCA,Office of Court Administration
+New York City Office of Emergency Management,NYCEM,017,EM,Office of Emergency Management
+New York City Office of Labor Relations,NYCOLR,214,OLR,Office of Labor Relations
+New York City Office of Management and Budget,NYCOMB,019,OMB,Office of Management and Budget
+New York City Office of Payroll Administration,NYCOPA,131,OPA,Office of Payroll Administration
+New York City Office of Public Advocate,NYCPA,101,PA,Office of Public Advocate
+New York City Office of the Actuary,NYCACT,,ACT,Office of the Actuary
+New York City Office of the City Clerk,NYCCLERK,103,CLERK,Office of the City Clerk
+New York City Office of the Comptroller,NYCCOMP,015,COMP,Office of the Comptroller
+New York City Office of the Mayor,NYCMO,002,MO,Office of the Mayor
+New York City Office of the Medical Examiner,NYCOCME,,OCME,Office of the Medical Examiner
+Port Authority of New York and New Jersey,PANYNJ,,PANYNJ,Port Authority of New York and New Jersey
+New York City Public Administrators Office - Bronx,NYCPA-BX,942,PA-BX,Public Administrators Office - Bronx
+New York City Public Administrators Office - Brooklyn,NYCPA-BK,943,PA-BK,Public Administrators Office - Brooklyn
+New York City Public Administrators Office - Manhattan,NYCPA-MN,941,PA-MN,Public Administrators Office - Manhattan
+New York City Public Administrators Office - Queens,NYCPA-QN,944,PA-QN,Public Administrators Office - Queens
+New York City Public Administrators Office - Staten Island,NYCPA-SI,945,PA-SI,Public Administrators Office - Staten Island
+Roosevelt Island Operating Corporation,RIOC,,RIOC,Roosevelt Island Operating Corporation
+New York City Tax Commission,NYCTAXCM,021,TAXCM,Tax Commission
+New York City Taxi and Limousine Commission,NYCTLC,156,TLC,Taxi and Limousine Commission
+Trust for Governors Island,TGI,,TGI,Trust for Governors Island
+United States Coast Guard,USCG,,USCG,United States Coast Guard
+United States Courts,USCOURTS,,USCOURTS,United States Courts
+United States Department of Transportation,USDOT,,USDOT,United States Department of Transportation
+United States National Park Service,USNPS,,USNPS,United States National Park Service
+New York City Unknown,NYCUNKN,,UNKN,Unknown
