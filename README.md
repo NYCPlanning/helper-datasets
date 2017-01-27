@@ -7,7 +7,7 @@ This helper_datasets repo contains look-up tables related to complex datasets th
 
 ##agencylookup.csv
 
-This table provides the standard agency names and abbrevations used by DCP's Capital Planning division.
+This table provides the standardized agency names, abbrevations, and codes used by DCP's Capital Planning division.
 
 ##bblcentroids.csv
 
